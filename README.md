@@ -11,7 +11,7 @@ This Python script implements a virtual trial room application that allows users
 
 ### Installation
 
-1. Clone the repository or download the script file (`virtual_trial_room.py`).
+1. Clone the repository 
 2. Install the required libraries if not already installed:
    ```
    pip install opencv-python
