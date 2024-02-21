@@ -21,7 +21,7 @@ This Python script implements a virtual trial room application that allows users
 ### Usage
 
 1. Ensure your webcam is connected and functional.
-2. Run the script `virtual_trial_room.py`.
+2. Run the script `main.py`.
 3. The application will open a window showing the webcam feed with virtual shirts overlaying the detected body.
 4. Use the right and left buttons displayed on the screen to navigate through the collection of shirts.
 5. Press the 'Esc' key to exit the application.
