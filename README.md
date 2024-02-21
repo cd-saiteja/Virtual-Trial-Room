@@ -26,6 +26,8 @@ This Python script implements a virtual trial room application that allows users
 4. Use the right and left buttons displayed on the screen to navigate through the collection of shirts.
 5. Press the 'Esc' key to exit the application.
 
+### Advisable to use Pycharm
+
 
 References: 
 
